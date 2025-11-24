@@ -11,7 +11,7 @@ import os
 from typing import Dict, List, Tuple
 
 # 🔑 ЗАМЕНИТЕ НА ВАШ DEEPSEEK API КЛЮЧ
-DEEPSEEK_API_KEY = "sk-333eb062315a4bf5a7e01747053c38b3"
+DEEPSEEK_API_KEY = ""
 
 # 🖼️ ЗАМЕНИТЕ НА ССЫЛКУ ВАШЕГО ЛОГОТИПА (или оставьте пустым для эмодзи)
 APP_LOGO_URL = "https://ferlenguas.ru/wp-content/uploads/2025/11/logo.png"  # Например: "https://raw.githubusercontent.com/your-repo/logo.png"
